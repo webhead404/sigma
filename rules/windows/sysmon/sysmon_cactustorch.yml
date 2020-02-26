@@ -24,6 +24,7 @@ detection:
     condition: selection
 tags:
     - attack.execution
+    - attack.defense_evasion
     - attack.t1055
     - attack.t1064
 falsepositives:
