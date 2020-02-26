@@ -18,6 +18,7 @@ tags:
     - attack.defense_evasion
     - attack.privilege_escalation
     - attack.t1088
+    - attack.t1088
     - car.2019-04-001
 falsepositives:
     - unknown
