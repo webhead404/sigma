@@ -7,6 +7,7 @@ references:
 tags:
     - attack.s0002
     - attack.t1003
+    - attack.t1003
     - attack.lateral_movement
     - attack.credential_access
     - car.2019-04-004
